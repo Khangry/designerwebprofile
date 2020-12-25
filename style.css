@@ -48,7 +48,7 @@ section {
 .about,
 .services,
 .skills,
-.profile,
+.profiles,
 .contact,
 footer {
     font-family: 'Poppins', sans-serif;
@@ -57,6 +57,7 @@ footer {
 .about .about-content,
 .services .serv-content,
 .skills .skills-content,
+.profiles .profiles-content
 .contact .contact-content {
     display: flex;
     flex-wrap: wrap;
